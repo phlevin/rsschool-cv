@@ -1,0 +1,64 @@
+*{
+    position:relative;
+    font-size:20px;
+    padding:5px 25px 10px 20px;
+    margin:0;
+    border-radius:4px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contacts{
+    border:2px solid #ff994f
+}
+
+.nav{
+    border:2px solid #f36dff;
+}
+
+.about{
+    border:2px solid #35D3A7;
+}
+
+.skills{
+    border:2px solid #A92A55;
+}
+
+.code{
+    border:2px solid #A92A55;
+    font-family: 'Courier New', monospace;
+}
+
+.exp{
+    border:2px solid #636b9b;
+}
+
+.edu{
+    border:2px solid #2aa946;
+}
+
+.lang{
+    border:2px solid #a9a12a;
+}
+
+.exercises{
+    border:2px solid #140c27;
+}
+
+:not(:last-child){
+    margin-bottom:10px;
+}
+
+.img__rss {
+    width: 150px;
+}
