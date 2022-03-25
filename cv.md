@@ -37,7 +37,8 @@ I've been working as a volunteer. 6 months as a specialist in the sphere of logi
 
 ## Education
 
-* ITMO University (Faculty of Robototechnics)
+* ITMO University (Faculty of Robototechnics) (Bachelor program)
+* ITMO University (Faculty of Robototechnics) (Master program)
 
 ## Languages
 
