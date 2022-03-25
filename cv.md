@@ -23,7 +23,7 @@ Many years ago, when I was studiyng in school, it was really excitinf for me to 
 
 ## Code example
 
-```Cpp-ObjDump
+```Cpp-Obj
 C++
 int multiply(int a, int b)
 {
